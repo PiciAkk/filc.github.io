@@ -120,6 +120,11 @@
       "name": "Giton",
       "amount": "$1",
       "platform": "donate"
+    },
+    {
+      "name": "PiciAkk",
+      "amount": "$1",
+      "platform": "patreon"
     }
   ]
 }
